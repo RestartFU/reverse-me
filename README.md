@@ -1,2 +1,2 @@
-# reverse-challenges
+# reverse-me
 reverse engineering challenges
